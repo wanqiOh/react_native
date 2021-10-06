@@ -31,7 +31,7 @@ This project is a starting point for a Flutter application that focus on Android
 4. Open cmd > {file path} > expo start.
 
 ### Interface
-![Home Screen](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2FWhatsApp%20Image%202021-09-10%20at%202.17.19%20PM.jpeg?alt=media&token=d7a83de9-a24b-4999-99c1-75352e6b5f84)
-![Comment Screen](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2FWhatsApp%20Image%202021-09-10%20at%202.17.19%20PM%20(1).jpeg?alt=media&token=73e03930-f108-4195-a854-1d89398e402d)
+![Posts Screen](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2FWhatsApp%20Image%202021-10-06%20at%204.52.14%20PM.jpeg?alt=media&token=a8f39796-b3b8-4b87-9bfe-c7c5b0a03233)
+![Comments Screen](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2FWhatsApp%20Image%202021-10-06%20at%204.52.14%20PM%20(1).jpeg?alt=media&token=3b48feeb-5911-4bcf-98ef-3703333e29ba)
 
 ![react_native](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2Freact_native.png?alt=media&token=5d5766b0-6e02-444d-9136-0223f5811757)
