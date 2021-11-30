@@ -25,20 +25,20 @@ This project is a starting point for a React Native application that focus on An
 ###### POSTS application
 2. Install those required packages:
    - [React Navigation Setup](https://reactnavigation.org/docs/getting-started)
-      `npm install @react-navigation/native`
-      `npm install react-native-screens react-native-safe-area-context`
-      `npm install @react-navigation/native-stack`
+      ######`npm install @react-navigation/native`
+      ######`npm install react-native-screens react-native-safe-area-context`
+      ######`npm install @react-navigation/native-stack`
    - [lodash.filter v4.6.0 Installation](https://www.npmjs.com/package/lodash.filter)
-      `npm i -g npm`
-      `npm i --save lodash.filter`
+      ######`npm i -g npm`
+      ######`npm i --save lodash.filter`
 ###### API Call
 2. Install those required packages:
    - [React Navigation Setup](https://reactnavigation.org/docs/getting-started)
-      `npm install @react-navigation/native`
-      `npm install react-native-screens react-native-safe-area-context`
-      `npm install @react-navigation/native-stack`
+      ######`npm install @react-navigation/native`
+      ######`npm install react-native-screens react-native-safe-area-context`
+      ######`npm install @react-navigation/native-stack`
    - [React Native Dropdown Picker Installation](https://hossein-zare.github.io/react-native-dropdown-picker-website/docs/)
-      `npm install react-native-dropdown-picker`
+      ######`npm install react-native-dropdown-picker`
 3. Download [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www) to run the project in real device
 3. Cloning an Existing Repository `git clone https://github.com/wanqiOh/react_native.git`
 4. Open cmd > {file path} > expo start.
